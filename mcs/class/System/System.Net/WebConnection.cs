@@ -39,14 +39,14 @@ using Mono.Net.Security;
 
 namespace System.Net
 {
-	enum ReadState
+	/*enum ReadState
 	{
 		None,
 		Status,
 		Headers,
 		Content,
 		Aborted
-	}
+	}*/
 
 	class WebConnection
 	{
